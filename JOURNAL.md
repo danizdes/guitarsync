@@ -10,3 +10,7 @@
     4. Save everything in JSON
 
 * *9:33* I've built a rough flow of the site, `flow.excalidraw.png`
+
+# 16 July 
+
+Okay so I removed the excalidraw flow thing cause I want to start over. 
