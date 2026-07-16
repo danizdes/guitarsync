@@ -14,3 +14,9 @@
 # 16 July 
 
 Okay so I removed the excalidraw flow thing cause I want to start over. 
+
+Okay so what I want to do is simple. From the Users POV I want to easily record audio, and then
+cateogirze them. I'll start small first and make the app easily store and record tracks. 
+
+Okay so I've made a file ```utils.py``` hosting re usable code. I added re usable components specifically
+for audio
