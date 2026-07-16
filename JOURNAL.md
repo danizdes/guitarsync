@@ -20,3 +20,8 @@ cateogirze them. I'll start small first and make the app easily store and record
 
 Okay so I've made a file ```utils.py``` hosting re usable code. I added re usable components specifically
 for audio
+
+Okay no I need to create the UI. I'll use pyqt6. I honeslty don't have much idea about how PyQT works
+so i'll use AI to look up the documentation.
+
+Okay wow this GUI stuff is way above my pay grade 😭. What if I try and make TUI apps?
