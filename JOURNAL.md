@@ -38,3 +38,5 @@ This is so cluncy like.. It's not working half the time. There has got to be an 
 I realized theres a streamlit packages for that... and they actually work quite well 😭😭😭. I used that instead to record audio.
 
 Okay so i've made another page for Managing the audio aswell. Now I just need to do Introduction and README.md
+
+Added some basic info in `Introduction.py`. Explaining how to use the program.
