@@ -25,3 +25,10 @@ Okay no I need to create the UI. I'll use pyqt6. I honeslty don't have much idea
 so i'll use AI to look up the documentation.
 
 Okay wow this GUI stuff is way above my pay grade 😭. What if I try and make TUI apps?
+
+# 17th July
+
+OKAY IDEA, what if I built a mac app that launched a local streamlit instance!
+
+[Speech to text]
+Okay, so I built out the basic structure for the record audio. There's still a lot of bugs, but yeah, I think it's pretty good so far. And I also replaced all of the, what do you call it? The app.py into a proper streamlet directory.
