@@ -32,3 +32,7 @@ OKAY IDEA, what if I built a mac app that launched a local streamlit instance!
 
 [Speech to text]
 Okay, so I built out the basic structure for the record audio. There's still a lot of bugs, but yeah, I think it's pretty good so far. And I also replaced all of the, what do you call it? The app.py into a proper streamlet directory.
+
+This is so cluncy like.. It's not working half the time. There has got to be an alternative
+
+I realized theres a streamlit packages for that... and they actually work quite well 😭😭😭. I used that instead to record audio.
