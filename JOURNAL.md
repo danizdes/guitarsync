@@ -51,3 +51,6 @@ Okay update, i'm trying different options, and i've managed to make the applicat
 it's giving streamlit internal import issues. I'll try and fix this.
 
 PyInstaller is NOT working no matter what I do lmao. 
+
+I'm trying to use Nuitka now, it should hopefully work better. Until that compiled i'll work on the
+README
