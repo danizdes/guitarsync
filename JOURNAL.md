@@ -49,3 +49,5 @@ Okay I'm done with `app.py`. I'll try to use the installer and see if it works o
 
 Okay update, i'm trying different options, and i've managed to make the application open but
 it's giving streamlit internal import issues. I'll try and fix this.
+
+PyInstaller is NOT working no matter what I do lmao. 
