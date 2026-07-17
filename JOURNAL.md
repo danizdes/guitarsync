@@ -54,3 +54,5 @@ PyInstaller is NOT working no matter what I do lmao.
 
 I'm trying to use Nuitka now, it should hopefully work better. Until that compiled i'll work on the
 README
+
+Done with the README 🙏
