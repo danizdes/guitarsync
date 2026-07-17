@@ -56,3 +56,6 @@ I'm trying to use Nuitka now, it should hopefully work better. Until that compil
 README
 
 Done with the README 🙏
+
+Okay no matter whatever I did for building the executable, I couldn't do it. I'm sorry hackclub 😭🙏. I unfortunately had to blindly trust AI to build it. Lines 10-end of file of `app.py` are completely
+AI.
