@@ -46,3 +46,6 @@ Now I just need to make an executable. I've looked online and using `PyInstaller
 So for PyInstaller I need to make a small launcher that launching everything, i'll name this `app.py`
 
 Okay I'm done with `app.py`. I'll try to use the installer and see if it works or not
+
+Okay update, i'm trying different options, and i've managed to make the application open but
+it's giving streamlit internal import issues. I'll try and fix this.
