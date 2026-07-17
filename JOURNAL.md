@@ -36,3 +36,5 @@ Okay, so I built out the basic structure for the record audio. There's still a l
 This is so cluncy like.. It's not working half the time. There has got to be an alternative
 
 I realized theres a streamlit packages for that... and they actually work quite well 😭😭😭. I used that instead to record audio.
+
+Okay so i've made another page for Managing the audio aswell. Now I just need to do Introduction and README.md
