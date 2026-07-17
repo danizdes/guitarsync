@@ -40,3 +40,9 @@ I realized theres a streamlit packages for that... and they actually work quite 
 Okay so i've made another page for Managing the audio aswell. Now I just need to do Introduction and README.md
 
 Added some basic info in `Introduction.py`. Explaining how to use the program.
+
+Now I just need to make an executable. I've looked online and using `PyInstaller` is probably the best option.
+
+So for PyInstaller I need to make a small launcher that launching everything, i'll name this `app.py`
+
+Okay I'm done with `app.py`. I'll try to use the installer and see if it works or not
