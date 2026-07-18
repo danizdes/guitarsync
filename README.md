@@ -18,12 +18,14 @@ at all my songs and manage them
 # Tech Stack
 So python was used for the entirety of the project! I used streamlit for the "frontend" website you see.
 
-# Getting Started
-Simply download the **universal** dmg for MacOS and launch it!
+# Getting Started (PLEASE READ)
+Simply download the **universal** dmg for MacOS, **add the ".dmg" extension** at the end of the file and your good to go!
 
 When you first run it, Apple won't let you as the app as its not signed. To bypass this, simply click
 "Done" when it gives you that prompt, go to `settings > Privacy & Security` and scroll down to the
 security tab and click "Open Anyway" then enter your password if it requires that and thats it!
+
+NOTE: It takes 5-10 seconds for the app to launch, so be patient please!
 
 # Setting it up yourself
 
