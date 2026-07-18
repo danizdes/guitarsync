@@ -19,7 +19,11 @@ at all my songs and manage them
 So python was used for the entirety of the project! I used streamlit for the "frontend" website you see.
 
 # Getting Started
-Simply download the binary for MacOS and launch it!
+Simply download the **universal** dmg for MacOS and launch it!
+
+When you first run it, Apple won't let you as the app as its not signed. To bypass this, simply click
+"Done" when it gives you that prompt, go to `settings > Privacy & Security` and scroll down to the
+security tab and click "Open Anyway" then enter your password if it requires that and thats it!
 
 # Setting it up yourself
 
